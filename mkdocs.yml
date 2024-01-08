@@ -1,0 +1,8 @@
+site_name: ddbot Docs
+theme:
+  name: material
+  language: en
+plugins:
+  - blog
+
+

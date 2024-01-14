@@ -1,6 +1,8 @@
 ---
 draft: False 
 date: 2024-01-05
+categories:
+  - General
 ---
 
 # Introduce TripleL Robotics

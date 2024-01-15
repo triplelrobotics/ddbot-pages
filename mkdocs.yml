@@ -2,7 +2,25 @@ site_name: ddbot Docs
 theme:
   name: material
   language: en
+  features:
+    - search.suggest
+    - search.highlight
 plugins:
   - blog
+  - search
 
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/triplelrobotics/ddbot-pages
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/triplelrobotics
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/triple-l-robotics/?viewAsMember=true
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/triplelrobotics
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/channel/UC4t3UAWgUVreoaVmtUTD0cA
 
+copyright: |
+  &copy; 2024 <a href="https://github.com/triplelrobotics" target="_blank" rel="noopener">TripleL Robotics</a>

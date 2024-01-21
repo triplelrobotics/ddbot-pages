@@ -5,6 +5,8 @@ Our robot project is named as "ddbot", standing for the ground mobile **d**iffer
 
 ## Blog
 
+[Weekly Update #3 (20240121)](./blog/posts/20240121.md)
+
 [Weekly Update #2 (20240113)](./blog/posts/20240113.md)
 
 [Weekly Update #1 (20240106)](./blog/posts/20240106.md)

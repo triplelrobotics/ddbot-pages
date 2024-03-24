@@ -2,6 +2,7 @@
 
 Our robot project is named as "ddbot", standing for the ground mobile **d**ifferntial-**d**rive ro**bot**. We aim to make it AI-powered, affordable, along with extensive tutorials to aid the education in AI and robotics.
 
+<img src="../../assets/img/IMG_1977.jpeg" alt="ddbot platform" width="240" height="320">
 
 ## Blog
 
@@ -15,8 +16,17 @@ Our robot project is named as "ddbot", standing for the ground mobile **d**iffer
 
 [Introduce TripleL Robotics](./blog/posts/intro_triplelrobotics.md)
 
-## AI capabilities
+<!-- ## AI capabilities -->
 
-## Affordable
+<!-- ## Affordable -->
 
 ## Tutorials
+We have released tutorials for ddbot. It's fun! Come and check out!
+
+[Tutorials 01 Teleoperation](./tutorials/teleoperation.md)
+
+[Tutorials 02 Video Stream](./tutorials/video stream.md)
+
+[Tutorials 03 Collsion Avoidance](./tutorials/collision avoidance.md)
+
+[Tutorials 04 Customized Algorithm](./tutorials/customized algorithm.md)
